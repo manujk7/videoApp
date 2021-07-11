@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357759684867",
+    "project_id": "videoapp-1caa8",
+    "storage_bucket": "videoapp-1caa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357759684867:android:600161153cc3910a109936",
+        "android_client_info": {
+          "package_name": "com.manuj.video_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357759684867-kj70avahtq64h2tjtdkmb0gne65o5tbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_o411K1jPw7WAfYmvjFzg-6PDwxm5-7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357759684867-kj70avahtq64h2tjtdkmb0gne65o5tbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
